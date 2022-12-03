@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "235474460052",
+    "project_id": "reservation-tracker-8e15b",
+    "storage_bucket": "reservation-tracker-8e15b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235474460052:android:3f4fa2bc2e091a50270381",
+        "android_client_info": {
+          "package_name": "com.example.reservationtracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "235474460052-843m8sncie24dj5a48mrbutbnpe59mc1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOArz_RE9u949-qJnByrU05Nue-29KvwY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "235474460052-843m8sncie24dj5a48mrbutbnpe59mc1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

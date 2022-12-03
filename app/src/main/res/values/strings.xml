@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ReservationTracker</string>
+    <string name="go_back">Go Back</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="email_text">email</string>
+    <string name="password_text">password</string>
+    <string name="confirm_password_text">confirm password</string>
+    <string name="log_in">Log In</string>
+    <string name="create_reservation">Create Reservation</string>
+    <string name="create">Create</string>
+    <string name="name">name</string>
+    <string name="estimated_time">estimated time</string>
+    <string name="table_size">table size</string>
+    <string name="are_you_a_restaurant">Are you a restaurant?</string>
+    <string name="user">User</string>
+    <string name="restaurant">Restaurant</string>
+    <string name="table_size_lbl">Table Size:</string>
+    <string name="est_time">Est. Time:</string>
+    <string name="ready">Ready</string>
+    <string name="cancel">Cancel</string>
+</resources>
